@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Train Sim World 2 繁體中文模組</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Train Sim World 2 繁體中文模組</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 17 Jul 2021 19:21:43 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>下載</title>
+      <link>http://example.org/download/</link>
+      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      
+      <guid>http://example.org/download/</guid>
+      <description>乘車指南 下載後將 pak 檔案放到遊戲資料夾裡面的
+Train Sim World 2\WindowsNoEditor\TS2Prototype\Content\DLC 更新記錄 下載模組</description>
+    </item>
+    
+    <item>
+      <title>下載</title>
+      <link>http://example.org/posts/download/</link>
+      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      
+      <guid>http://example.org/posts/download/</guid>
+      <description>乘車指南 ※本模組未涵蓋所有 DLC，詳情請見關於
+下載後將 pak 檔案放到遊戲資料夾裡面的
+Train Sim World 2\WindowsNoEditor\TS2Prototype\Content\DLC
+ 更新記錄 下載模組</description>
+    </item>
+    
+    <item>
+      <title>實用連結</title>
+      <link>http://example.org/links/</link>
+      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      
+      <guid>http://example.org/links/</guid>
+      <description> 模擬火車世界官方網站(英文) 模擬火車世界官方網站(簡中) 官方論壇(英文) Train Sim Community Fandom Wiki Rudolf Heijink 的網站
+有一些路線的教學的小工具 Steam  商店頁面 討論區   巴哈姆特 - 模擬列車  </description>
+    </item>
+    
+    <item>
+      <title>截圖比對</title>
+      <link>http://example.org/screenshot/</link>
+      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      
+      <guid>http://example.org/screenshot/</guid>
+      <description>   簡體 繁體                   ](./sc3.jpg) | [ ](./tc3.jpg) || [ ](./sc2.jpg) | [ ](./tc2.jpg) || [ ](./sc1.jpg) | [ ](./tc1.jpg) | --</description>
+    </item>
+    
+    <item>
+      <title>更新記錄</title>
+      <link>http://example.org/changelog/</link>
+      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      
+      <guid>http://example.org/changelog/</guid>
+      <description>1次 首次發佈</description>
+    </item>
+    
+    <item>
+      <title>關於</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>翻譯說明 緣起：手癢
+主要是這遊戲的簡體中文譯文品質看起來不怎麼樣，有些用詞誤譯或翻譯不統一， 明明有些地方是有了解遊戲內容作出的翻譯，例如「Off The Rails」翻譯為「自由軌道」。
+地名、車站部分除非是台灣有慣用翻譯才會調整，基本上都維持原翻譯。
+列車名稱或許會改回原文，簡中有些似乎有過度翻譯。
+翻譯範圍 主程式    # 原文 中文     &amp;mdash; Sand Patch Grade 沙斑地段   &amp;mdash; Schnellfahrstrecke Köln-Aachen 科隆亞琛高速鐵路   &amp;mdash; Bakerloo Line 倫敦地鐵貝克盧線    路線 DLC    # 原文 中文     &amp;mdash; Hauptstrecke Rhein-Ruhr: Duisburg - Bochum 萊茵-魯爾主幹線   &amp;mdash; East Coastway: Brighton - Eastbourne &amp;amp; Seaford 東部海岸線   &amp;mdash; Peninsula Corridor: San Francisco - San Jose 半島走廊    列車 DLC 暫無</description>
+    </item>
+    
+  </channel>
+</rss>
