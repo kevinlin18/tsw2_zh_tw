@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://tsw2tw.dev.taipei/posts/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://tsw2tw.dev.taipei/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/download/</loc>
+    <loc>http://tsw2tw.dev.taipei/download/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/download/</loc>
+    <loc>http://tsw2tw.dev.taipei/posts/download/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/links/</loc>
+    <loc>http://tsw2tw.dev.taipei/links/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/screenshot/</loc>
+    <loc>http://tsw2tw.dev.taipei/screenshot/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/changelog/</loc>
+    <loc>http://tsw2tw.dev.taipei/changelog/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://tsw2tw.dev.taipei/about/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://tsw2tw.dev.taipei/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://tsw2tw.dev.taipei/tags/</loc>
   </url>
 </urlset>
