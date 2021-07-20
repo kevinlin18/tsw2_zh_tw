@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Train Sim World 2 繁體中文模組</title>
-    <link>http://tsw2tw.dev.taipei/posts/</link>
+    <link>http://tsw.dev.taipei/posts/</link>
     <description>Recent content in Posts on Train Sim World 2 繁體中文模組</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 17 Jul 2021 19:21:43 +0800</lastBuildDate><atom:link href="http://tsw2tw.dev.taipei/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 01:51:43 +0800</lastBuildDate><atom:link href="http://tsw.dev.taipei/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>下載</title>
-      <link>http://tsw2tw.dev.taipei/posts/download/</link>
-      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      <link>http://tsw.dev.taipei/posts/download/</link>
+      <pubDate>Wed, 21 Jul 2021 01:51:43 +0800</pubDate>
       
-      <guid>http://tsw2tw.dev.taipei/posts/download/</guid>
+      <guid>http://tsw.dev.taipei/posts/download/</guid>
       <description>乘車指南 ※本模組未涵蓋所有 DLC，詳情請見關於
 下載後將 pak 檔案放到遊戲資料夾裡面的
 Train Sim World 2\WindowsNoEditor\TS2Prototype\Content\DLC

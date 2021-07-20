@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Train Sim World 2 繁體中文模組</title>
-    <link>http://tsw2tw.dev.taipei/categories/</link>
+    <link>http://tsw.dev.taipei/categories/</link>
     <description>Recent content in Categories on Train Sim World 2 繁體中文模組</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="http://tsw2tw.dev.taipei/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language><atom:link href="http://tsw.dev.taipei/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

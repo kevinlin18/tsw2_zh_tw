@@ -2,27 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Train Sim World 2 繁體中文模組</title>
-    <link>http://tsw2tw.dev.taipei/</link>
+    <link>http://tsw.dev.taipei/</link>
     <description>Recent content on Train Sim World 2 繁體中文模組</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 17 Jul 2021 19:21:43 +0800</lastBuildDate><atom:link href="http://tsw2tw.dev.taipei/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Jul 2021 01:51:43 +0800</lastBuildDate><atom:link href="http://tsw.dev.taipei/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>下載</title>
-      <link>http://tsw2tw.dev.taipei/download/</link>
-      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      <link>http://tsw.dev.taipei/posts/download/</link>
+      <pubDate>Wed, 21 Jul 2021 01:51:43 +0800</pubDate>
       
-      <guid>http://tsw2tw.dev.taipei/download/</guid>
-      <description>乘車指南 下載後將 pak 檔案放到遊戲資料夾裡面的
-Train Sim World 2\WindowsNoEditor\TS2Prototype\Content\DLC 更新記錄 下載模組</description>
-    </item>
-    
-    <item>
-      <title>下載</title>
-      <link>http://tsw2tw.dev.taipei/posts/download/</link>
-      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
-      
-      <guid>http://tsw2tw.dev.taipei/posts/download/</guid>
+      <guid>http://tsw.dev.taipei/posts/download/</guid>
       <description>乘車指南 ※本模組未涵蓋所有 DLC，詳情請見關於
 下載後將 pak 檔案放到遊戲資料夾裡面的
 Train Sim World 2\WindowsNoEditor\TS2Prototype\Content\DLC
@@ -30,39 +20,49 @@ Train Sim World 2\WindowsNoEditor\TS2Prototype\Content\DLC
     </item>
     
     <item>
-      <title>實用連結</title>
-      <link>http://tsw2tw.dev.taipei/links/</link>
+      <title>下載</title>
+      <link>http://tsw.dev.taipei/download/</link>
       <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
       
-      <guid>http://tsw2tw.dev.taipei/links/</guid>
+      <guid>http://tsw.dev.taipei/download/</guid>
+      <description>乘車指南 下載後將 pak 檔案放到遊戲資料夾裡面的
+Train Sim World 2\WindowsNoEditor\TS2Prototype\Content\DLC 更新記錄 下載模組</description>
+    </item>
+    
+    <item>
+      <title>實用連結</title>
+      <link>http://tsw.dev.taipei/links/</link>
+      <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
+      
+      <guid>http://tsw.dev.taipei/links/</guid>
       <description> 模擬火車世界官方網站(英文) 模擬火車世界官方網站(簡中) 官方論壇(英文) Train Sim Community Fandom Wiki Rudolf Heijink 的網站
 有一些路線的教學的小工具 Steam  商店頁面 討論區   巴哈姆特 - 模擬列車  </description>
     </item>
     
     <item>
       <title>截圖比對</title>
-      <link>http://tsw2tw.dev.taipei/screenshot/</link>
+      <link>http://tsw.dev.taipei/screenshot/</link>
       <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
       
-      <guid>http://tsw2tw.dev.taipei/screenshot/</guid>
+      <guid>http://tsw.dev.taipei/screenshot/</guid>
       <description>   簡體 繁體                   ](./sc3.jpg) | [ ](./tc3.jpg) || [ ](./sc2.jpg) | [ ](./tc2.jpg) || [ ](./sc1.jpg) | [ ](./tc1.jpg) | --</description>
     </item>
     
     <item>
       <title>更新記錄</title>
-      <link>http://tsw2tw.dev.taipei/changelog/</link>
+      <link>http://tsw.dev.taipei/changelog/</link>
       <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
       
-      <guid>http://tsw2tw.dev.taipei/changelog/</guid>
+      <guid>http://tsw.dev.taipei/changelog/</guid>
       <description>2021/07/21 第1次 首次發佈 包含本體和下列3個DLC Hauptstrecke Rhein-Ruhr East Coastway Peninsula Corridor</description>
     </item>
     
     <item>
       <title>關於</title>
-      <link>http://tsw2tw.dev.taipei/about/</link>
+      <link>http://tsw.dev.taipei/about/</link>
       <pubDate>Sat, 17 Jul 2021 19:21:43 +0800</pubDate>
       
-      <guid>http://tsw2tw.dev.taipei/about/</guid>
+      <guid>http://tsw.dev.taipei/about/</guid>
       <description>翻譯說明 緣起：手癢
 主要是這遊戲的簡體中文譯文品質看起來不怎麼樣，有些用詞誤譯或翻譯不統一， 明明有些地方是有了解遊戲內容作出的翻譯，例如「Off The Rails」翻譯為「自由軌道」。
 地名、車站部分除非是台灣有慣用翻譯才會調整，基本上都維持原翻譯。

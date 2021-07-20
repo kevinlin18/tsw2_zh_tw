@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://tsw2tw.dev.taipei/posts/</loc>
+    <loc>http://tsw.dev.taipei/posts/</loc>
+    <lastmod>2021-07-21T01:51:43+08:00</lastmod>
+  </url><url>
+    <loc>http://tsw.dev.taipei/</loc>
+    <lastmod>2021-07-21T01:51:43+08:00</lastmod>
+  </url><url>
+    <loc>http://tsw.dev.taipei/posts/download/</loc>
+    <lastmod>2021-07-21T01:51:43+08:00</lastmod>
+  </url><url>
+    <loc>http://tsw.dev.taipei/download/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://tsw2tw.dev.taipei/</loc>
+    <loc>http://tsw.dev.taipei/links/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://tsw2tw.dev.taipei/download/</loc>
+    <loc>http://tsw.dev.taipei/screenshot/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://tsw2tw.dev.taipei/posts/download/</loc>
+    <loc>http://tsw.dev.taipei/changelog/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://tsw2tw.dev.taipei/links/</loc>
+    <loc>http://tsw.dev.taipei/about/</loc>
     <lastmod>2021-07-17T19:21:43+08:00</lastmod>
   </url><url>
-    <loc>http://tsw2tw.dev.taipei/screenshot/</loc>
-    <lastmod>2021-07-17T19:21:43+08:00</lastmod>
+    <loc>http://tsw.dev.taipei/categories/</loc>
   </url><url>
-    <loc>http://tsw2tw.dev.taipei/changelog/</loc>
-    <lastmod>2021-07-17T19:21:43+08:00</lastmod>
-  </url><url>
-    <loc>http://tsw2tw.dev.taipei/about/</loc>
-    <lastmod>2021-07-17T19:21:43+08:00</lastmod>
-  </url><url>
-    <loc>http://tsw2tw.dev.taipei/categories/</loc>
-  </url><url>
-    <loc>http://tsw2tw.dev.taipei/tags/</loc>
+    <loc>http://tsw.dev.taipei/tags/</loc>
   </url>
 </urlset>
