@@ -100,7 +100,7 @@ Func _Import()
 		Next
 		FileClose($hNewfile)
 	EndIf
-	_TrayTip("i")
+	;~ _TrayTip("i")
 EndFunc
 
 Func CompGetFileName($Path)
@@ -112,12 +112,12 @@ EndIf
 If @error Then Return -1
 EndFunc
 
-Func _TrayTip($mode)
-	If $mode = "e" Then
-		TrayTip("Export","Finish!",3)
-		sleep(3000)
-	Else
-		TrayTip("Import","Finish!",3)
-		sleep(3000)
-	EndIf
-EndFunc
+;~ Func _TrayTip($mode)
+;~ 	If $mode = "e" Then
+;~ 		TrayTip("Export","Finish!",3)
+;~ 		sleep(3000)
+;~ 	Else
+;~ 		TrayTip("Import","Finish!",3)
+;~ 		sleep(3000)
+;~ 	EndIf
+;~ EndFunc
