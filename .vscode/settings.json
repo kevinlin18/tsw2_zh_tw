@@ -188,6 +188,10 @@
             "find": "從右方駛離",
             "replace": "右車窗視角"
         },
+        "骨料": {
+            "find": "骨料",
+            "replace": "骨材"
+        },
     },
     "replacerules.rulesets": {
         "Train Sim World 2": {
@@ -236,6 +240,7 @@
                 "運行",
                 "向左駛離",
                 "從右方駛離",
+                "骨料",
             ]
         }
     }
