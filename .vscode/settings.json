@@ -192,6 +192,10 @@
             "find": "骨料",
             "replace": "骨材"
         },
+        "駕駛位": {
+            "find": "駕駛位",
+            "replace": "駕駛座"
+        },
     },
     "replacerules.rulesets": {
         "Train Sim World 2": {
@@ -241,6 +245,7 @@
                 "向左駛離",
                 "從右方駛離",
                 "骨料",
+                "駕駛位",
             ]
         }
     }

@@ -2,6 +2,6 @@
 連結器
 全緊軔
 手軔機
-緩解
+運轉位
 SFJ CT NSC73 中梁貨車廂
-使用{Tertiary}
+緊軔 {Tertiary}
