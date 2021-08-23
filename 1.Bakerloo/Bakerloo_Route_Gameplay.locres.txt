@@ -312,7 +312,7 @@ Camera controls tutorial goes here - Awaiting control scheme implementation.
 插入方向選擇手把，設定為「空擋」
 簡介和體驗
 你必須徹底檢查四周是否安全，嘗試向上、向下、向左和向右看。
-發車時間已到，鎖定車門。
+發車時間已到，關閉車門。
 成為一名地鐵司機，運送每年上億名乘客
 遵守限速非常重要，如果你的列車即將超速，將手把移到制軔範圍，施加少量制軔力。
 肯薩綠地
@@ -334,7 +334,7 @@ Camera controls tutorial goes here - Awaiting control scheme implementation.
 學習駕駛 1972 年型地鐵列車的基本知識。
 地鐵日常
 路線入口
-鎖上車門
+關閉車門
 觀察四周！
 麥達維爾
 麥達維爾 1 月台
@@ -404,7 +404,7 @@ Camera controls tutorial goes here - Awaiting control scheme implementation.
 按上方向鍵將方向選擇器設定為「前進」
 按 Y 按鈕在空位坐下或起身
 按 Y 在空位坐下
-按右方向鍵，解鎖右側乘客車門
+按右方向鍵，打開右側乘客車門
 按發聲警告重設鍵
 按三角鍵在空位坐下或起身
 按三角鍵在空位坐下
@@ -480,7 +480,7 @@ Camera controls tutorial goes here - Awaiting control scheme implementation.
 前往女王公園的列車
 在地鐵穿行
 沿著倫敦地鐵貝克盧線行駛，看看有什麼好玩的。
-快速看一眼月台，確保一切安全，然後解鎖車門。
+快速看一眼月台，確保一切安全，然後打開車門。
 在司機座位上坐下。你的大部分時間將在這裡度過。
 負責準備一輛從倫敦路車庫發車的北行列車。
 駕駛這輛北行的全程列車到哈羅及威爾德斯通。
