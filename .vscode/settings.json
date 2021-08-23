@@ -196,6 +196,10 @@
             "find": "駕駛位",
             "replace": "駕駛座"
         },
+        "發動機艙": {
+            "find": "發動機艙",
+            "replace": "引擎室"
+        },
     },
     "replacerules.rulesets": {
         "Train Sim World 2": {
@@ -246,6 +250,7 @@
                 "從右方駛離",
                 "骨料",
                 "駕駛位",
+                "發動機艙",
             ]
         }
     }

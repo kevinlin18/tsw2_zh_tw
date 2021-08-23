@@ -448,7 +448,7 @@ Camera controls tutorial goes here - Awaiting control scheme implementation.
 設定方向選擇器至「空擋」
 將方向選擇器設定為「關閉」並拔出
 將牽引制軔控制設定為關閉並鬆軔
-將牽引制軔控制設定為「緊急情況」
+將牽引制軔控制設定為「緊急緊軔」
 將牽引制軔控制設定為「關閉並鬆軔」
 將牽引制軔控制設定為「電阻制軔 1. 保持」
 將牽引制軔控制設定為「轉軌」
