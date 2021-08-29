@@ -49,7 +49,7 @@ Aktualisierung mit Taste E!
 Aus
 Automat. Bremsprobe
 BR 442
-德鐵442「天賦 2」 型電聯車
+BR442 天賦 2 DB
 BRH =
 電池
 遮光簾
@@ -76,10 +76,10 @@ C
 關閉乘客門
 已關閉
 對比度
-德鐵 442 型 4 車廂 [空車]
-德鐵 442 型 4 車廂 [載客]
-德鐵 442 型 8 車廂 [空車]
-德鐵 442 型 8 車廂 [載客]
+DB BR442 4 車廂 [空車]
+DB BR442 4 車廂 [載客]
+DB BR442 8 車廂 [空車]
+DB BR442 8 車廂 [載客]
 德鐵駕駛員
 Daten<cf>bestä-<cf>tigen
 Daten<cf>über-<cf>tragen
