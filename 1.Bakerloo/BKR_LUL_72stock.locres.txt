@@ -1,5 +1,5 @@
 1972 MkII Tube Stock LU
-630 伏直流電第三軌和第四軌供電
+第三軌和第四軌 630V 直流電
 72 Stock DM
 72 Stock NCDM
 72 Stock T

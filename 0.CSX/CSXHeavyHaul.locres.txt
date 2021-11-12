@@ -822,7 +822,7 @@ M_2
 慕尼黑 02
 慕尼黑 03
 音樂
-未知
+不適用
 新圖層
 否
 無可用運輸服務
@@ -1153,7 +1153,7 @@ S_2
 切換監控攝影機畫面
 切換內部/外部攝影機
 切換檔案
-更改路線
+切換路線
 切換至下一車廂攝影機
 切換至上一車廂攝影機
 TAA
@@ -1418,7 +1418,7 @@ you@email.com
 {Speed} 公里/小時 -
 {Type}: {Class} - {Number}
 {VehicleCount} 輛車
-版權所有© 2021 多樂堂，RailSimulator.com Limited ("DTG")的註冊商標。 「多樂堂」「Train Sim World」和「SimuGraph」為DTG的商標或註冊商標。虛幻引擎®，版權期限 1998-2021，版權所有Epic Games, Inc. ，保留所有權利。虛幻引擎®是Epic Games的註冊商標。本軟件部分使用SpeedTree®科技（©2014 Interactive Data Visualization, Inc.）。 SpeedTree®是Interactive Data Visualization, Inc.的註冊商標，保留所有權利。多樂堂擁有美國鐵路（Amtrak）的官方授權。美國鐵路為國家鐵路客運公司的註冊商標。德國鐵路（DB）商標為德國鐵路股份公司的註冊商標。蓋特威克快鐵是高維亞泰晤士鐵路有限公司（Govia Thameslink Railway Ltd）的交易名稱和商標。版權所有馬薩諸塞灣交通局（©Massachusetts Bay Transportation Authority），保留所有權利。三井鐵路（歐洲）（MRCE）是三井鐵路資本歐洲公司的註冊商標。多樂堂獲倫敦交通公司許可使用南方鐵路標識。所有版權或商標均由各自所有者所有。未經授權的拷貝、改編、租借、二次出售、商場使用、收費使用、廣告使用、電纜傳輸、公開演出，分配或提取本產品或構成本產品的任意商標或版權的行為一律禁止。由DTG開發並發行。完整的工作人員名單可見於《模擬火車世界》的「選項」選單。
+版權所有© 2021 多樂堂，RailSimulator.com Limited ("DTG")的註冊商標。 「多樂堂」「Train Sim World」和「SimuGraph」為DTG的商標或註冊商標。虛幻引擎®，版權期限 1998-2021，版權所有Epic Games, Inc. ，保留所有權利。虛幻引擎®是Epic Games的註冊商標。本軟件部分使用SpeedTree®科技（©2014 Interactive Data Visualization, Inc.）。 SpeedTree®是Interactive Data Visualization, Inc.的註冊商標，保留所有權利。多樂堂擁有美國鐵路（Amtrak）的官方授權。美國鐵路為國家鐵路客運公司的註冊商標。德國鐵路（DB）商標為德國鐵路股份公司的註冊商標。蓋威克快鐵是高維亞泰晤士鐵路有限公司（Govia Thameslink Railway Ltd）的交易名稱和商標。版權所有麻薩諸塞灣交通局（©Massachusetts Bay Transportation Authority），保留所有權利。三井鐵路（歐洲）（MRCE）是三井鐵路資本歐洲公司的註冊商標。多樂堂獲倫敦交通公司許可使用南方鐵路標識。所有版權或商標均由各自所有者所有。未經授權的拷貝、改編、租借、二次出售、商場使用、收費使用、廣告使用、電纜傳輸、公開演出，分配或提取本產品或構成本產品的任意商標或版權的行為一律禁止。由DTG開發並發行。完整的工作人員名單可見於《模擬火車世界》的「選項」選單。
 °
 控制台
 建立塗裝貼圖

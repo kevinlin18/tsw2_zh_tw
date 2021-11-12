@@ -17,7 +17,7 @@ kV
 1000
 1000<cf>Hz
 15.0
-15 千伏交流電高架電纜
+高架電纜 15kV 交流電
 194
 2
 2000
@@ -193,7 +193,7 @@ UD
 已使用駕駛室門
 已使用車廂燈
 已使用電門/制軔聯合手把
-已使用車門解鎖
+已使用駕駛室門
 已使用大燈
 已鳴笛
 已使用乘客門
@@ -210,8 +210,8 @@ VMZ
 雨刷
 黃色
 ZL
-列車
-列車
+Zug
+Zug 
 ZugBesy - Zugdateneinstellung
 列車控制系統 (ZugBesy)
 Zugdateneingabe - Daten geändert, Vorgang beenden!
