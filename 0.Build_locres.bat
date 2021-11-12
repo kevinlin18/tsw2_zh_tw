@@ -73,5 +73,52 @@ copy /y .\6.SanFransSan\NEW_SFJ_CT_GP38-2.locres ..\UnrealPakSwitch\TS2Prototype
 copy /y .\6.SanFransSan\NEW_SFJ_CT_Nippon.locres ..\UnrealPakSwitch\TS2PrototypeSanFranSanJose\Plugins\DLC\SFJ_CT_Nippon\Content\Localization\SFJ_CT_Nippon\zh\SFJ_CT_Nippon.locres
 copy /y .\6.SanFransSan\NEW_SFJ_CT_NSC73CenterBeam.locres ..\UnrealPakSwitch\TS2PrototypeSanFranSanJose\Plugins\DLC\SFJ_CT_NSC73CenterBeam\Content\Localization\SFJ_CT_NSC73CenterBeam\zh\SFJ_CT_NSC73CenterBeam.locres
 copy /y .\6.SanFransSan\NEW_SFJ_CT_TwinBayHopper.locres ..\UnrealPakSwitch\TS2PrototypeSanFranSanJose\Plugins\DLC\SFJ_CT_TwinBayHopper\Content\Localization\SFJ_CT_TwinBayHopper\zh\SFJ_CT_TwinBayHopper.locres
+@REM 7.BostonProvidence
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\7.BostonProvidence\BostonProvidence.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\7.BostonProvidence\BostonProvidence_Route_Gameplay.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\7.BostonProvidence\BPE_AMTK_ACS64.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\7.BostonProvidence\BPE_AMTK_Amfleet.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\7.BostonProvidence\BPE_MBTA_F40PH-3C.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\7.BostonProvidence\BPE_MBTA_SingleDeckCars.locres.txt"
+copy /y .\7.BostonProvidence\NEW_BostonProvidence.locres ..\UnrealPakSwitch\TS2PrototypeBostonProvidence\Plugins\DLC\BostonProvidence\Content\Localization\BostonProvidence\zh\BostonProvidence.locres
+copy /y .\7.BostonProvidence\NEW_BostonProvidence_Route_Gameplay.locres ..\UnrealPakSwitch\TS2PrototypeBostonProvidence\Plugins\DLC\BostonProvidence_Route_Gameplay\Content\Localization\BostonProvidence_Route_Gameplay\zh\BostonProvidence_Route_Gameplay.locres
+copy /y .\7.BostonProvidence\NEW_BPE_AMTK_ACS64.locres ..\UnrealPakSwitch\TS2PrototypeBostonProvidence\Plugins\DLC\BPE_AMTK_ACS64\Content\Localization\BPE_AMTK_ACS64\zh\BPE_AMTK_ACS64.locres
+copy /y .\7.BostonProvidence\NEW_BPE_AMTK_Amfleet.locres ..\UnrealPakSwitch\TS2PrototypeBostonProvidence\Plugins\DLC\BPE_AMTK_Amfleet\Content\Localization\BPE_AMTK_Amfleet\zh\BPE_AMTK_Amfleet.locres
+copy /y .\7.BostonProvidence\NEW_BPE_MBTA_F40PH-3C.locres ..\UnrealPakSwitch\TS2PrototypeBostonProvidence\Plugins\DLC\BPE_MBTA_F40PH-3C\Content\Localization\BPE_MBTA_F40PH-3C\zh\BPE_MBTA_F40PH-3C.locres
+copy /y .\7.BostonProvidence\NEW_BPE_MBTA_SingleDeckCars.locres ..\UnrealPakSwitch\TS2PrototypeBostonProvidence\Plugins\DLC\BPE_MBTA_SingleDeckCars\Content\Localization\BPE_MBTA_SingleDeckCars\zh\BPE_MBTA_SingleDeckCars.locres
+@REM 8.DresdenRiesa
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_DBB_BR363.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_DB_BR143.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_DB_BR146-2.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_DB_BR442.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_DB_Doppelstock.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_DB_Habbiins_344.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_DB_Laaers.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_MRCE_BR185-5.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_Sggmrss.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DRA_Zacns.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DresdenRiesa.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\8.DresdenRiesa\DresdenRiesa_Route_Gameplay.locres.txt"
+copy /y .\8.DresdenRiesa\NEW_DRA_DBB_BR363.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_DBB_BR363\Content\Localization\DRA_DBB_BR363\zh\DRA_DBB_BR363.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_DB_BR143.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_DB_BR143\Content\Localization\DRA_DB_BR143\zh\DRA_DB_BR143.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_DB_BR146-2.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_DB_BR146-2\Content\Localization\DRA_DB_BR146-2\zh\DRA_DB_BR146-2.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_DB_BR442.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_DB_BR442\Content\Localization\DRA_DB_BR442\zh\DRA_DB_BR442.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_DB_Doppelstock.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_DB_Doppelstock\Content\Localization\DRA_DB_Doppelstock\zh\DRA_DB_Doppelstock.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_DB_Habbiins_344.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_DB_Habbiins_344\Content\Localization\DRA_DB_Habbiins_344\zh\DRA_DB_Habbiins_344.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_DB_Laaers.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_DB_Laaers\Content\Localization\DRA_DB_Laaers\zh\DRA_DB_Laaers.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_MRCE_BR185-5.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_MRCE_BR185-5\Content\Localization\DRA_MRCE_BR185-5\zh\DRA_MRCE_BR185-5.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_Sggmrss.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_Sggmrss\Content\Localization\DRA_Sggmrss\zh\DRA_Sggmrss.locres
+copy /y .\8.DresdenRiesa\NEW_DRA_Zacns.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DRA_Zacns\Content\Localization\DRA_Zacns\zh\DRA_Zacns.locres
+copy /y .\8.DresdenRiesa\NEW_DresdenRiesa.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DresdenRiesa\Content\Localization\DresdenRiesa\zh\DresdenRiesa.locres
+copy /y .\8.DresdenRiesa\NEW_DresdenRiesa_Route_Gameplay.locres ..\UnrealPakSwitch\TS2PrototypeDresdenRiesa\Plugins\DLC\DresdenRiesa_Route_Gameplay\Content\Localization\DresdenRiesa_Route_Gameplay\zh\DresdenRiesa_Route_Gameplay.locres
+@REM 9.LondonBrighton
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\9.LondonBrighton\LBN_GX_Class387.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\9.LondonBrighton\LBN_SN_Class377-4.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\9.LondonBrighton\LondonBrighton.locres.txt"
+.\tool\unreal_locres_texttool_import.exe "D:\GAME\Unreal Engine Chinese\9.LondonBrighton\LondonBrighton_Route_Gameplay.locres.txt"
+copy /y .\9.LondonBrighton\NEW_LBN_GX_Class387.locres ..\UnrealPakSwitch\TS2PrototypeLondonBrighton\Plugins\DLC\LBN_GX_Class387\Content\Localization\LBN_GX_Class387\zh\LBN_GX_Class387.locres
+copy /y .\9.LondonBrighton\NEW_LBN_SN_Class377-4.locres ..\UnrealPakSwitch\TS2PrototypeLondonBrighton\Plugins\DLC\LBN_SN_Class377-4\Content\Localization\LBN_SN_Class377-4\zh\LBN_SN_Class377-4.locres
+copy /y .\9.LondonBrighton\NEW_LondonBrighton.locres ..\UnrealPakSwitch\TS2PrototypeLondonBrighton\Plugins\DLC\LondonBrighton\Content\Localization\LondonBrighton\zh\LondonBrighton.locres
+copy /y .\9.LondonBrighton\NEW_LondonBrighton_Route_Gameplay.locres ..\UnrealPakSwitch\TS2PrototypeLondonBrighton\Plugins\DLC\LondonBrighton_Route_Gameplay\Content\Localization\LondonBrighton_Route_Gameplay\zh\LondonBrighton_Route_Gameplay.locres
 
 pause

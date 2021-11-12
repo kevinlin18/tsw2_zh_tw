@@ -1,0 +1,223 @@
+kV
+#
+###
+###<cf>##
+###.###
+##,#
+##,##
+##.##.##
+##:##
+##:##:##
+%
+0
+0 公尺
+01:02:03
+1
+100
+1000
+1000<cf>Hz
+15.0
+高架電纜 15kV 交流電
+194
+2
+2000
+250
+3
+3000
+4
+400.123
+4000
+500
+500<cf>Hz
+600
+750
+8
+<< Error Message here >>
+<< FAULT TEXT >>
+<< Long Placeholder Text >>
+<< Text 1 >>
+<< Text 2 >>
+<< Text >>
+<<Alternate Text>>
+A
+ACM
+AUS
+Aktualisierung mit Taste E!
+用於後轉向架
+用於前轉向架
+常用緊軔 {BrakeAmount}
+Aus
+Automat. Bremsprobe
+BC
+BP
+BR442 天賦 2 DB
+BRH =
+電池
+遮光簾
+藍色
+龐巴迪
+龐巴迪 2011-2020
+亮度
+按鍵 0
+按鍵 1
+按鍵 2
+按鍵 3
+按鍵 4
+按鍵 5
+按鍵 6
+按鍵 7
+按鍵 8
+按鍵 9
+C
+駕駛室燈
+駕駛室燈關閉
+駕駛室燈打開
+下車
+上車
+關閉乘客門
+已關閉
+聯合動力手把
+聯絡調度員
+對比度
+德鐵駕駛員
+DRA BR 442
+Daten<cf>bestä-<cf>tigen
+Daten<cf>über-<cf>tragen
+下調 {Speed} km/h
+丹納連結器
+Di, 01.06.10
+減光
+車門
+車門
+車門坡道深度 57 公分
+Dot
+下
+已行駛 160 公里！
+已行駛 1600 公里！
+駕駛座
+駕駛座
+EQ
+設定列車資料
+電聯車
+緊急緊軔
+緊急緊軔
+進入
+引擎制軔百分比：
+FIS
+前進
+保險絲盒
+G
+灰色
+格魯恩彼爾德
+守衛蜂鳴器
+HS
+HS 2
+停留軔機緊軔
+停留軔機鬆軔
+車頭
+大燈/尾燈
+遠光燈
+保持
+高音鳴笛
+低音鳴笛
+上調 {Speed} km/h
+自動軔機
+訊息報告
+儀表板照明指示燈調光器
+隔離
+LCM
+左車窗視角
+已鎖定
+降低
+M1
+MCM
+MR
+主電路斷路器
+標誌燈
+主控鑰匙
+總開關
+最大軔力
+最大動力
+Mg
+NBÜ
+NOT<cf>制軔
+空檔
+關閉
+關閉/尾燈
+打開
+開啟
+開啟
+停留軔機
+PZB
+PZB 確認
+PZB 跨接
+PZB 超馳控制
+PZB 釋放
+集電弓
+客運
+左側乘客門
+右側乘客門
+按下
+Prüf<cf>Stör
+Quitt.<cf>4 Zug
+升起
+閱讀燈調光器
+閱讀燈
+紅色
+運轉位
+鬆開
+後退
+右車窗視角
+S
+SA
+撒砂裝置
+螢幕 1
+螢幕 2
+螢幕 3
+頁 1/1
+失知制軔
+入座
+St
+T1
+T2
+車尾
+定速巡航
+列車照明
+斷開器
+UD
+本地斷開連結器
+遠程斷開連結器
+未隔離
+上
+已使用駕駛室門
+已使用駕駛室燈
+已使用電門/制軔聯合手把
+已使用駕駛室門
+已使用大燈
+已鳴笛
+已使用乘客門
+已使用乘客車廂燈
+已使用逆轉機
+已使用車窗雨刷
+V = 0
+V > 0
+VMZ
+豎線
+提前警戒按鍵
+雨刷
+黃色
+ZL
+Zug
+Zug 
+ZugBesy - Zugdateneinstellung
+列車控制系統 (ZugBesy)
+Zugdateneingabe - Daten geändert, Vorgang beenden!
+ein
+gültige Zugdaten
+繼續
+返回
+{BrakePercent} 緊軔
+{Speed} km/h
+{ThrottlePercent} 動力
+Ü
+Übernommene Zugdaten
