@@ -3,6 +3,7 @@ BC
 %
 (按住)
 (按住)攝影機第二層選單
+(按住)DTL 螢幕截圖
 (按住)鎖定攝影機
 (按住)撒砂
 (按住)加速攝影機
@@ -16,6 +17,7 @@ BC
 ({ObjectiveName})<cf>標記數量： {0}<cf>CurrentMarkerIndex: {1}<cf>目前行駛速度：{2} m/s<cf>條件測試：{3}<cf>條件限度：{4}<cf>停車準確度：{5}<cf>停車得分率：{6}<cf>
 ({ObjectiveName})<cf>日期：{0}<cf>等待時間：{1}
 -
+.
 0
 0 公里
 0.0
@@ -190,6 +192,7 @@ BC
 <img url="https://dtl-ghost-storage-bucket-prod.storage.googleapis.com/2018/032018/03/ER-03.jpg"/><cf>*****<cf><img url="https://dtl-ghost-storage-bucket-prod.storage.googleapis.com/2018/032018/03/ER-02.jpg"/>
 ?
 加速度表
+接受並發布
 行為
 進階設定
 降低 AFB / 定速巡航
@@ -198,6 +201,7 @@ AI 輔助
 這裡一切正常
 AMP
 再次詢問我？
+ATC
 聲音
 自動警報系統重設
 A_1
@@ -217,10 +221,11 @@ PlayStation™Network 帳號未匹配存檔資料。
 警醒裝置
 警報器/司機安全裝置重設
 全部車輛
+在創作者俱樂部裡訂閱的所有塗裝和場景與你自己的創作性質相同，都能以同樣的方式使用。​
 環境
 反鋸齒
 套用
-四月
+4月
 您確定要刪除此檔案？
 您確定要刪除此塗裝？
 你確定要刪除本場景嗎？
@@ -230,19 +235,23 @@ PlayStation™Network 帳號未匹配存檔資料。
 你確定要重新啟用 Dovetail Live？下次進入遊戲時你會收到登入提醒。<cf>注意：Dovetail Live的存檔將會被刪除。
 你確定要重設 Dovetail Live？下次進入遊戲時你會收到登入提醒。<cf>注意：Dovetail Live的存檔將會被刪除。
 到達
+多樂堂遊戲致力於在電子遊戲中打造逼真的模擬體驗。我們現在選擇 Bidstack 公司作為廣告合作夥伴。Bidstack 功能開啟時，《模擬火車世界2》中的各種廣告牌、標志和海報上可以顯示現實世界中的廣告。若要關閉 Bidstack 功能，取消勾選下方選項（你可以隨時在設定選單中更改此選項）。若要允許現實世界中的廣告在遊戲裡出現、增強遊戲的整體真實感，請保持下方選項的勾選狀態。
 新聞
 聲音 {0}: {1}
-八月
+8月
 自動隱藏準心
 自動載入旅程
 自動
 減少自動制軔
 增加自動制軔
 自動制軔
+可用
 可用車次
 軸類型
+返回
 BC
 開始
+已封鎖的使用者的內容
 BP
 制軔系統
 立即購買
@@ -262,11 +271,13 @@ B_2
 最佳路線
 最佳得分
 最佳列車
+Bidstack 廣告
 波鴻
 附加
 下一車吊桿攝影機
 前一車吊桿攝影機
 制軔警告提示器
+瀏覽創作者俱樂部，為你的列車選擇由《模擬火車世界》社群創作的自訂塗裝和場景。​
 版本號：
 按鍵提示
 按鍵文本
@@ -281,18 +292,25 @@ C
 已完成
 確認
 確認密碼
+恭喜您！
 登入
+內容詳情
+內容總覽
 繼續
 繼續旅程
 操控說明
 控制
 複製到車輛
+版權內容
 連接至編組
 建立 Dovetail Live 帳號
+建立身份
 建立
 建立新檔案
+創作者俱樂部
 定速巡航速度
 目前速度
+正在維護
 C_1
 C_2
 駕駛室燈
@@ -328,6 +346,7 @@ C_2
 選擇選項
 從地圖上選擇地點
 選擇路線
+該身份已被佔用，請重新選擇。
 電路斷路器關閉/切換
 電路斷路器開啟
 經典模式
@@ -352,6 +371,7 @@ C_2
 確認設定
 確認起點標識
 聯絡調度員
+創作者俱樂部不支援此內容
 繼續
 繼續旅程
 繼續{JourneyName}
@@ -368,10 +388,14 @@ C_2
 連掛按鈕
 後連結器鎖定
 前連結器鎖定
+建立身份
 新增
 建立檔案
 建立檔案，或從清單中選擇
 建立日期
+創作者俱樂部(不可用)
+創作者俱樂部尚未啟用
+創造者俱樂部目前正在維護，帶來不便敬請見諒。我們希望能盡快恢復正常執行！
 製作人員
 準心能見度
 平交道
@@ -391,21 +415,49 @@ C_2
 循環外部攝影機
 循環內部攝影機
 出生日期
+DCZ_01
+DCZ_02
+DCZ_03
+DCZ_04
+DCZ_05
+DCZ_06
+DCZ_07
+DCZ_08
+DCZ_09
+DCZ_10
+DCZ_11
+DCZ_12
+DCZ_13
+DCZ_14
 日
 任務報告
 貼圖顏色
 貼圖
+刪除模組
+是否刪除此模組？
 目的地
 數位時速表
 三維景觀
+探索創作者俱樂部
 離開
 不再詢問
 多樂堂《模擬火車世界 2》團隊:<cf><cf>遊戲開發 <cf>Michael Alexander<cf>Roger Barnett<cf>Joe Burgess<cf>Florin Chirila<cf>Jake Cooper<cf>Gary Crawford<cf>Arkadiusz Dawidowski<cf>Jeffrey Douglas<cf>Ryan Duffield<cf>Jade Ellen<cf>Jake Elstob<cf>Bradley Faithfull-Wright<cf>Joel Fallerini<cf>Craig Fowler<cf>Laura Geldard<cf>Alex Gianquitto<cf>Jamie Gordon<cf>Dale Grinsell<cf>Josh Hall<cf>Tom Hegarty<cf>Ivaylo Hinov<cf>Chris Horton<cf>Heather Jackson<cf>Karl Lambert<cf>Ben Laws<cf>Francesc Lopez<cf>Adam Lucas<cf>Jess Magnus<cf>Keith Marsh<cf>William Marshall<cf>Scott Milne<cf>Kim Minkes<cf>James Moody<cf>Cameron Moreton<cf>Jonas Nelson<cf>Rob Payne<cf>Matt Peddlesden<cf>Nabin Phauja<cf>Matt Porter<cf>Darren Potter<cf>Gray Poyda<cf>Jon Quinn<cf>Adam Rose<cf>Mark Rothkegel<cf>Jordan Searle<cf>Derek Siddle<cf>Daria Skulmowska<cf>Bradley Smy<cf>Ian Stangoe<cf>Jon Stewart<cf>Kacper Stopa<cf>Jackie Tran<cf>Benedict Traynor<cf>Tom Walters<cf>Alex Weeser<cf>Peter Why<cf>Ralph Wilkinson<cf>Nick Wilson<cf>Sebastian Vomvas<cf>MRFS<cf><cf>QA<cf>Sam Baldwin<cf>Craig Bedwell<cf>Lillian Bush<cf>Timothy Bush<cf>Mark Connolly<cf>Zuzanna Dawidowska<cf>Katie Jarrett<cf>Michelle Mackay<cf>Connor McCrory<cf>Cassie Murray<cf>Simon Sandrock<cf>Mason Smith<cf><cf>語言本地化<cf>Lucy Callow<cf>James Chien Chang<cf>Carla Condemi<cf>Ambre Gouttiere<cf>Lin Jin<cf>Kristian Law<cf><cf>出版部<cf>Stephen Dark<cf>James Lewis<cf>Chris Medlock<cf>Chris Payne<cf>Chris Peirce<cf>Mike Richardson<cf><cf>創意部<cf>Emma Clayton<cf>Jack Ferris<cf>Roxy Francis<cf>Emma Hearn<cf>Josh Hughes<cf>Chris Ives<cf>Callum Jones<cf>Jack Stevenson<cf><cf>零售部 <cf>Kayliegh Anderson<cf>Jamila Bowden<cf>Tyler King<cf>Julian Roughton<cf>Byron Stevens<cf><cf>版權部<cf>Tarnya Franks<cf>Estelle Timothy<cf><cf>IT支持<cf>Ian Butcher<cf>Stuart Colyer<cf><cf>人力資源部<cf>Laura Joyce<cf>Danielle Linington<cf>Chloe Turner<cf>Fiona Turner<cf><cf>DOVETAIL LIVE<cf>Bradley Arnott<cf>Charles Carnell<cf>Chris Latta<cf>Ed Lepedus<cf>Jacob Bladon<cf>Sheona Hartnup-Hoolachan<cf><cf>行政管理 <cf>Steve Bainbridge<cf>Karen Charlton<cf>Paul Jackson<cf>Gemma Johnson-Brown<cf>Rob O'Farrell<cf>Paula Palmer<cf>Jon Rissik<cf>Lizzie Wilding<cf><cf>多樂堂配音人員<cf>Roger Barnett<cf>Naaila Clements<cf>Steve Dark<cf>Gemma Johnson-Brown<cf>Josh Hall<cf>Kristian Law<cf>Paula Palmer<cf>Matt Peddlesden<cf>Martin Reynolds <cf>Adam Rose <cf>Andrew Thompson<cf><cf>外部配音人員<cf>Sam Peter Jackson<cf>André Carter<cf>Graham Vick<cf>Janis Ahern<cf><cf>特別感謝：<cf>Charles McMicking<cf><cf>Alcuin Capital Partners LLP<cf><cf>Luisa Anderlini<cf>John Chaddock<cf>Andreas Czudai<cf>Gary Dolzall<cf>Olivier Fakih<cf>Edward Fisk<cf>Wojciech Giersz<cf>Iain Hamilton<cf>Aleksei Kuzmin<cf>Kevin McGowan<cf>Syreeta Peddlesden<cf>Francesc Sabaté Villaret<cf>Scott Sanderson<cf>Duncan Sealey<cf>Ben Williams<cf><cf>Pole To Win<cf>Quantic Lab<cf>MoGi Group<cf>Whyttest<cf><cf>DISTINCTIVE DEVELOPMENTS LTD<cf>Simon Bradley<cf>Matthew Hawley<cf>Nigel Little<cf>Thomas Savage<cf><cf>音效部<cf>Konrad Gutkowski<cf>YleArkisto<cf>Parabolix<cf>FreqMan<cf><cf>授權方<cf>CSXT Intellectual Properties Corporation<cf>Deutsche Bahn AG<cf>Innovation 1st T/A TSBA<cf>Transport for London<cf><cf>Bullet Physics SDK. © 2012 Advanced Micro Devices, Inc.<cf><cf>Sky Dome Appearance. © 2017, Lukas Hosek and Alexander Wilkie. 保留所有權利。<cf><cf>所有內部Beta測試員<cf><cf>多樂堂所有工作人員
 DOVETAIL LIVE
 Dovetail Live 登入
 多樂堂商店
+DRA01
+DRA02
+DRA03
+DRA04
+DRA05
+DRA06
+DRA07
+DRA08
+DRA09
+DRA10
+DRA11
+DRA12
 關聯 Dovetail Live 帳號准許
-DTL 截圖
 D_1
 D_2
 日期
@@ -413,16 +465,18 @@ D_2
 廢棄
 貼圖分類
 貼圖
-十二月
+12月
 降低制軔
 調暗後大燈
 減少動力
 降低雨刷速度
 預設內部攝影機
+預設動態模糊
 預設移動
 預設調色
 預設主題
 刪除
+刪除模組
 刪除檔案
 刪除場景
 刪除車次
@@ -436,7 +490,7 @@ D_2
 已拒絕。你的列車不在正確的路徑上。
 出發
 車庫
-描述
+說明
 已檢測到
 對話
 柴油裝卸點
@@ -444,6 +498,9 @@ D_2
 停用道岔脫軌
 閱讀有關《模擬火車世界 2》的最新文章
 顯示模式
+顯示名稱
+顯示名稱無效，請另選名稱。
+顯示名稱只能包含字母，長度為 2 到 12 個字元，且不能以「DTG」開頭。
 距離
 駕駛距離
 行駛距離
@@ -464,8 +521,9 @@ Dovetail Live 收集、儲存、處理你的帳戶和行為訊息，旨在為你
 Dovetail Live 已重新啟用。你下次進入遊戲時會被提醒登入。<cf>注意：Dovetail Live的存檔將會被刪除.
 Dovetail Live 已重設。下次進入遊戲時你會收到登入提醒。<cf>注意：Dovetail Live的存檔將會被刪除。
 Dovetail Live {ErrorFont}中斷連線{FontEnd}，登入發現獎品和其他內容
+Dovetail Live 身份錯誤，請稍後重試。
 下
-下載中……
+正在下載……
 駕駛 {TrainType} 從 {StartLocation} 出發開往 {EndLocation}, 沿途做 {NumberOfStops} 次客運停靠。
 駕駛 {TrainType} 從 {StartLocation} 出發開往 {EndLocation}, 沿途做 {NumberOfStops} 次停靠。
 駕駛 {TrainType} 從 {StartLocation} 出發到 {EndLocation}，中途不做停靠。
@@ -476,10 +534,24 @@ Dovetail Live {ErrorFont}中斷連線{FontEnd}，登入發現獎品和其他內�
 動力制軔
 動力制軔力
 動力制軔設定
+ECW4
+ECW5
+ECW9
+ECWA
+ECWB
+ECWI
+ECWJ
+ECWK
+ECWO
+ECWP
+ECWT
+ECWZ
 編輯圖層
+編輯模組詳情
 電力
 電阻/動力制軔
 電子信箱
+進入創作者俱樂部
 EQ
 ER
 錯誤，柴油引擎無法初始化。
@@ -489,6 +561,7 @@ ER
 E_1
 E_2
 編輯
+編輯內容
 編輯細節
 編輯時刻表
 效果品質
@@ -508,20 +581,25 @@ E_2
 為此檔案命名：
 為此場景命名：
 為此趟車次命名：
+在此輸入您的 ID
 請在下方輸入您的電子信箱，我們會給您發送連結以更改密碼。
 錯誤
 錯誤標籤
 範例
-退出
+離開
 離開遊戲
 已離開遊戲區域
 擴充您的收藏
+查看《模擬火車世界》社群的作品……​
+查看最新社群內容
 外部攝影機 1
 外部攝影機 2
 外部
 車外警報
 外部攝影機
 F
+常見問題
+精選
 忘記密碼？
 編組
 FXAA
@@ -530,7 +608,7 @@ F_2
 華氏
 檔案建立失敗。
 後退
-二月
+2月
 篩選
 分類篩選
 分類篩選
@@ -551,11 +629,13 @@ F_2
 編組已改變
 前進
 調暗前大燈
+發現了喜歡的塗裝或場景？在俱樂部中訂閱該作品，即可將其下載到你的收藏，供你使用。
 自由攝影機
 自由攝影機
 自由攝影機
 貨運
 貨運路線
+在創作者俱樂部活動中心，你可以從選單中選擇，單獨搜尋塗裝或場景。你可以通過名稱或指定標簽進行搜尋。除了搜尋特定塗裝或場景，你還可以單獨瀏覽特定創作者的內容。
 前
 前吊桿攝影機
 前攝影機
@@ -580,6 +660,7 @@ GCC09
 GCC10
 GCC11
 GCC12
+返回
 途經地點
 坡度
 G_1
@@ -598,9 +679,15 @@ G_2
 坡度單位
 預設畫質
 綠燈
-群
+群組
+騷擾/辱罵性內容
 HD
 按住
+如何檢舉冒犯性內容？
+如何搜尋？
+如何訂閱？
+如何上傳？
+活動中心
 HUD 說明
 H_1
 H_2
@@ -615,10 +702,10 @@ H_2
 調亮前大燈
 大燈快速鍵
 幫助
+隱藏
 隱藏/顯示
 在遊戲中隱藏/顯示
 隱藏 HUD
-隱藏 Dovetail Live 截圖上的使用者介面
 高
 主介面
 鳴笛
@@ -629,13 +716,18 @@ H_2
 馬力
 我同意 Dovetail Live 的使用條款，知情並同意 Dovetail Games 使用我的資料
 工具提示框部件為預設
+本人已閱讀並理解以上隱私政策
 我想要收到關於火車模擬遊戲和 Dovetail Live 的消息
+身份已建立！
+圖片選擇
 進行中
 駕駛室信號/LZB 速限
 訊息
 I_1
 I_2
+身份已建立
 如果您幾分鐘沒有收到訊息，請嘗試在垃圾郵件匣中進行尋找。
+如果你在創作者俱樂部看到任何冒犯性內容，可以在遊戲內通過“檢舉模組”進行檢舉。審核團隊將審查所有被檢舉的內容，違反創作者俱樂部條款的內容將被移除。
 立刻
 沉浸模式
 切換沉浸模式攝影機
@@ -657,20 +749,21 @@ I_2
 互動快速鍵
 內部攝影機
 看來您還沒完成該任務所需的訓練
+加入俱樂部
 旅程
 J_1
 J_2
-一月
+1月
 工作
-七月
+7月
 跳上車輛
 轉轍器
 道岔狀態：{State}
-六月
+6月
 K_1
 K_2
 鍵盤控制
-鍵盤布局代碼：
+鍵盤佈局代碼：
 行駛公里數
 步行公里數
 Klb
@@ -682,6 +775,7 @@ L
 圖層
 圖層名稱
 圖層
+塗裝
 塗裝編輯器
 篩選塗裝
 塗裝名稱
@@ -690,13 +784,25 @@ L
 裝載煤炭
 裝載乙醇
 乘客上車
-載入中
+正在載入
 已鎖定
 機車制軔
 列車篩選器
 中斷連線
 左搖桿
 LZB距離速度變化
+LZN2
+LZN4
+LZN9
+LZNA
+LZNE
+LZNI
+LZNJ
+LZNN
+LZNO
+LZNP
+LZNU
+LZNZ
 L_1
 L_2
 大
@@ -715,6 +821,8 @@ L_2
 小雨
 燈 {0}: {1}
 薄雲
+連結到 Bidstack 隱私權政策
+連結到 Dovetail 隱私權政策
 塗裝編輯器內容無法儲存。請檢查儲存空間並重試。
 塗裝編輯器內容無法儲存。請檢查儲存空間並重試。
 無法載入塗裝編輯器存檔。
@@ -722,7 +830,7 @@ L_2
 塗裝編輯器存檔已損壞且無法載入。請刪除內容。
 載入錯誤
 載入上一個檢查點
-載入中……
+正在載入……
 位置
 關門/開門
 兩側關門
@@ -747,8 +855,12 @@ L_2
 任務總結
 月
 單元
+最受歡迎
+最新
 英里/小時
 MR
+我的模組
+我的訂閱
 M_1
 M_2
 主選單
@@ -760,7 +872,7 @@ M_2
 地圖
 地圖/(按住)螢幕截圖
 地圖/(按住)切換行程表
-三月
+3月
 總開關下調
 總開關切換/上調
 總音量
@@ -770,10 +882,11 @@ M_2
 最大牽引力
 已達到最大圖層數
 最大列車長度：{ShortestStopLength}公尺
-五月
+5月
 計量單位
 獎章
 中
+選單
 公制
 行駛英里數
 步行英里數
@@ -828,6 +941,21 @@ M_2
 無可用車次
 目前無圖層
 不需要
+NYH0
+NYH4
+NYH5
+NYH9
+NYHA
+NYHB
+NYHI
+NYHJ
+NYHK
+NYHN
+NYHO
+NYHP
+NYHT
+NYHU
+NYHZ
 N_1
 N_2
 名稱
@@ -857,10 +985,12 @@ N_2
 無
 普通
 通知
-十一月
+11月
 空值
 特殊車輛數量：{Current}/{Maximum}
 關閉
+冒犯性內容
+具有冒犯性、辱罵性的內容和受版權保護的內容將被移除。請查看常見問題瞭解詳情。
 好
 打開
 選項
@@ -873,7 +1003,7 @@ O_2
 任務完成
 目標標記
 切換目標標記
-十月
+10月
 關閉
 自由軌道
 打開
@@ -881,6 +1011,7 @@ O_2
 打開
 打開/關閉左側車門
 打開/關閉右側車門
+打開/關閉列車互動快速鍵
 打開緊急緊軔閥門
 打開地圖
 打開暫停選單/返回/取消
@@ -893,8 +1024,22 @@ O_2
 輸出功率
 塗漆
 密碼
+PIR01
+PIR02
+PIR03
+PIR04
+PIR05
+PIR06
+PIR07
+PIR08
+PIR09
+PIR10
+PIR11
+PIR12
+開始遊戲
 玩家檔案
 玩家檔案名稱
+玩家名稱
 動力指示
 按任意鍵確認
 按任意鍵繼續
@@ -902,7 +1047,9 @@ O_2
 按任意鍵確認
 按任意鍵繼續
 按任意鍵開始
+隱私權政策
 產品總覽
+檔案總覽
 進度
 投影
 PZB 確認
@@ -936,9 +1083,14 @@ Pan
 玩家車次
 請在上車前蓋上油箱蓋
 請離開車輛
+最多可選擇 6 個標簽。
+為模組選擇要上傳的圖片。
+請進行選擇，並確保發布的內容遵循準則。
+請選擇檢舉內容類別
 後期處理品質
 減少動力
 降雨量
+準備提交模組
 按下 [button] 開始 {Scenario}
 上一個目的地
 底漆
@@ -956,11 +1108,16 @@ Q_2
 紅色鎖定指示
 立即註冊
 註冊失敗
+檢舉模組
+所需內容
+已達到塗裝上限
 替代塗裝
 重新開始
 重新開始遊戲
+結果
 繼續
 繼續<cf>儲存的遊戲
+返回活動中心
 逆轉機方向
 路線
 路線挑戰
@@ -970,6 +1127,7 @@ R_1
 R_2
 Rail Driver (BETA)
 鐵道迷截圖
+編輯模組時，需要在「螢幕截圖」部分添加鐵道迷截圖。請務必在開始編輯細節之前，將模組的鐵道迷截圖準備就緒，否則無法完成“接受並發布”步驟。<cf>如想瞭解如何拍攝鐵道迷截圖，請在設定選單中查看攝像機控制佈局。
 暴雨
 比率
 重新以玩家為中心
@@ -986,6 +1144,9 @@ Rail Driver (BETA)
 重玩單元
 重玩場景
 重玩車次
+檢舉
+所需內容
+需要下載
 重設
 重設警醒裝置
 重設攝影機位置
@@ -1001,8 +1162,9 @@ Rail Driver (BETA)
 透明度調整
 返回
 返回駕駛室
-返回自由漫游
+返回自由漫遊
 返回遊戲區域
+重新上傳
 後退
 逆轉機
 逆轉機/降檔
@@ -1029,6 +1191,7 @@ Rail Driver (BETA)
 奔跑
 運轉
 郊區
+S
 安全系統
 儲存後的塗裝將可用於時刻表模式
 場景資料
@@ -1039,27 +1202,62 @@ Rail Driver (BETA)
 行程表
 螢幕
 螢幕截圖
+搜尋
 選擇終點標識
+選擇模組
 選擇路徑
 選擇起始標識
 選擇停靠點
 路線選擇
 發送
-服務終點 — {EndMarker}
+發送
+車次終點 — {EndMarker}
 車次說明
 車次名稱
 車次選擇
-服務起點 — {StartMarker}
+車次起點 — {StartMarker}
 車次
 類型
 設定
 音效
+SHM_01
 側面
 登入
+SJF_01
+SJF_02
+SJF_03
+SJF_04
+SJF_05
+SJF_06
+SJF_07
+SJF_08
+SJF_09
+SJF_10
+SJF_11
+SJF_12
+SJF_13
+SJF_14
+SJF_15
 跳過
+SMH_02
+SMH_03
+SMH_04
+SMH_05
+SMH_06
+SMH_07
+SMH_08
+SMH_09
+SMH_10
+SMH_11
+SMH_12
+SMH_13
+SMH_14
 踏上新的旅程
 起始點選擇
 停車位置
+提交模組
+訂閱
+訂閱內容
 切換鍵位綁定
 切換檔案
 S_1
@@ -1071,6 +1269,7 @@ S_2
 沙斑地段 03
 沙斑地段 04
 儲存
+儲存草稿
 儲存錯誤
 已儲存
 縮放
@@ -1088,8 +1287,10 @@ S_2
 畫面比例
 螢幕解析度
 螢幕截圖品質
+螢幕截圖
 搜尋
 二次警告
+允許現實世界中的廣告在遊戲裡出現(可在設定選單中更改)
 選擇
 選擇路線
 選擇場景
@@ -1097,7 +1298,7 @@ S_2
 選擇角色
 選擇顯示路線類型
 選擇復活點
-九月
+9月
 車次
 車次編輯器
 車次已存在
@@ -1107,6 +1308,7 @@ S_2
 設定
 陰影品質
 剪切
+顯示
 登入
 未經允許通過紅燈
 信號系統已啟動
@@ -1147,6 +1349,11 @@ S_2
 正在停止
 商店
 副車頭
+提交
+提交模組
+訂閱
+訂閱下載
+已訂閱
 字幕
 切換制軔
 切換制軔——(按住)第二層選單
@@ -1157,7 +1364,12 @@ S_2
 切換至下一車廂攝影機
 切換至上一車廂攝影機
 TAA
+標簽選擇
+條款和條件
+感謝你的檢舉
+感謝你的檢舉。雖然我們無法單獨回復每一份檢舉，但我們的團隊將會盡快進行審查。
 感謝註冊
+為什麼需要鐵道迷截圖，如何截圖？
 油(電)門檔位
 等級  {TierLevel} 的精英獎勵
 時刻表
@@ -1170,8 +1382,23 @@ TAA
 訓練
 訓練單元
 列車
+TRA_01
+TRA_02
+TRA_03
+TRA_04
+TRA_05
+TRA_06
+TRA_07
+TRA_08
+TRA_09
+TRA_10
+TRA_11
+TRA_12
+TRA_13
+TRA_14
 T_1
 T_2
+標簽
 截取螢幕截圖
 截取螢幕截圖 [Dovetail Live]
 分接開關下調
@@ -1188,7 +1415,12 @@ T_2
 存檔無法載入。請確保安裝了最新的遊戲更新和所需內容。
 行程表是空的
 目前沒有新聞。
-目前沒有商品。
+沒有可顯示圖片
+沒有可顯示圖片。請檢查你的檔案隱私設定
+沒有可顯示內容
+沒有可顯示內容。
+刪除內容時出現錯誤
+上傳內容時出現錯誤
 儲存遊戲時發生錯誤。
 本車輛
 該內容需要在「經典」控制模式下才能正常執行。我們現在將更改你的控制模式設定。
@@ -1201,6 +1433,7 @@ T_2
 遊玩時間
 時間
 標題
+標題和說明不得包含不雅內容
 切換警鈴
 切換駕駛室燈
 切換連結器
@@ -1239,6 +1472,7 @@ T_2
 類型
 UI 調色板
 UI 主題
+DTL 截圖上的使用者介面
 分離車廂
 制服預覽
 卸下骨材
@@ -1246,6 +1480,7 @@ UI 主題
 卸下煤炭
 卸下乙醇
 乘客下車
+上傳
 已用圖層
 U_1
 U_2
@@ -1260,10 +1495,13 @@ U_2
 右側開門
 解鎖新的遊戲獎勵
 延遲解鎖
+未命名
+取消訂閱
 直到下一個
 未命名的工作
 上
 大/小 — 變焦
+上傳
 上傳至 Dovetail Live
 完成後，你的控制介面會回到「經典」模式。
 完成後，你的控制介面會回到「沉浸」模式。
@@ -1271,6 +1509,7 @@ U_2
 已使用轉轍器
 已使用轉車盤
 縱軸
+查看模組
 查看使用條款
 垂直同步
 V_1
@@ -1311,8 +1550,10 @@ W_2
 我們還可能使用您的資料對服務器壽命進行計算。確認，修復和排查漏洞和服務器錯誤。
 我們已發送了一封內有重設密碼鏈接的郵件到您的信箱。
 重量
+歡迎
 濕度
 車輪滑移指示器
+在創作者俱樂部發現自己喜歡的作品時，只需要在該作品頁面上選擇「訂閱下載」。如果你尚未擁有該作品所需的內容，你將收到有關該內容的提示。
 風力
 視窗聲音持續
 視窗
@@ -1328,6 +1569,33 @@ W_2
 您想將所有鍵位恢復為預設設定嗎？
 確認反轉縱軸嗎?
 你想要儲存修改嗎？
+XM21_01
+XM21_02
+XM21_03
+XM21_04
+XM21_05
+XM21_06
+XM21_07
+XM21_08
+XM21_09
+XM21_10
+XM21_11
+XM21_12
+XM21_13
+XM21_14
+XM21_15
+XM21_16
+XM21_17
+XM21_18
+XM21_19
+XM21_20
+XM21_21
+XM21_22
+XM21_23
+XM21_24
+XM21_25
+XM21_26
+XM21_27
 獲得經驗值
 X_1
 X_2
@@ -1340,12 +1608,17 @@ Y_2
 年
 黃色
 是
+你可以使用塗裝編輯器和場景編輯器來創建塗裝和場景。完成滿意的作品時，請前往創作者俱樂部，選擇“我的遊戲模組（MOD）”。在這裡你可以查看之前上傳和分享的內容，也可以上傳新內容。
+現在你可以通過「創作者俱樂部」或 Dovetail Live 來查看專屬獎勵、成就和新發布！
 你已完成該場景
-你有未完成的更新，所以部分已安装的附加内容和遊戲本體不相容。請關閉遊戲，並完成更新。
+你有未完成的更新，所以部分已安裝的附加內容和遊戲本體不相容。請關閉遊戲，並完成更新。
 你的檔案數量已達到最大值。請先刪除一個檔案再建立新的。
 您的信箱
 你的速度
+您的內容已成功上傳
 您的資料可能會共享給我們的合作者，也就是負責維護和運作 Dovetail Live Store 的 Scalefast。
+最新更改已保存
+你的遊戲模組已從創作者俱樂部撤回，原因如下：
 Z_1
 Z_2
 縮放
@@ -1367,6 +1640,18 @@ _,
 _.
 _?
 anky
+bpe01
+bpe02
+bpe03
+bpe04
+bpe05
+bpe06
+bpe07
+bpe08
+bpe09
+bpe10
+bpe11
+bpe12
 brachio
 漢堡 01
 漢堡 02
@@ -1376,6 +1661,46 @@ http://dtg.live/tsw-help
 kN
 公里
 km/h
+ldn!
+ldn,
+ldn.
+ldn00
+ldn01
+ldn02
+ldn03
+ldn04
+ldn05
+ldn06
+ldn07
+ldn08
+ldn09
+ldn?
+ldnA
+ldnB
+ldnC
+ldnD
+ldnE
+ldnF
+ldnG
+ldnH
+ldnI
+ldnJ
+ldnK
+ldnL
+ldnM
+ldnN
+ldnO
+ldnP
+ldnQ
+ldnR
+ldnS
+ldnT
+ldnU
+ldnV
+ldnW
+ldnX
+ldnY
+ldnZ
 倫敦 01
 倫敦 02
 倫敦 03
@@ -1403,6 +1728,12 @@ you@email.com
 {Year} {Month} {Day}
 {DestinationName}
 {DestinationName} - {ArrivalTime}
+{DiskSpace} GB
+{DiskSpace} GB 可用
+{DiskSpace} MB
+{DiskSpace} MB 可用
+{DiskSpace} bytes
+{DiskSpace} kB
 {FormationLengthInMetres}公尺
 {FormationName}
 {Hour}:{Minutes}
@@ -1424,6 +1755,8 @@ you@email.com
 建立塗裝貼圖
 用所選的矢量圖建立塗裝貼圖
 預設
+Bidstack SDK
+Configure SDK
 貓道
 離開{0}
 登上{0}
@@ -1458,6 +1791,7 @@ Dovetail Live 不可用 - 請稍後重試
 無效的資料
 無效的信箱地址
 該信箱已註冊
+無效的身份
 無效的出生日期
 密碼不匹配
 同意條款後才可註冊
@@ -1470,6 +1804,9 @@ Dovetail Live 不可用 - 請稍後重試
 圖形
 標識
 貨車廂
+Base configuration for our game module
+Configuration for the Houdini tools
+DTGEnviromentTools
 星期五
 星期一
 星期六
@@ -1479,6 +1816,11 @@ Dovetail Live 不可用 - 請稍後重試
 星期三
 Dovetail Live 精英挑戰追蹤進度被打斷
 無法追蹤 Dovetail Live 精英挑戰進度。請檢查本地儲存空間和網路連線。
+模組 ID
+模組標題
+狀態
+這是模組的 ID，用於在後端識別模組。
+這是模組的標題，由作者提供。
 攝影機模式
 無法駕駛列車！
 更改動力模式
